@@ -1,11 +1,14 @@
 # 字节跳动穿山甲广告、腾讯优量汇(广点通)聚合广告插件 Flutter版本
 
 <p>
-<a href="https://pub.flutter-io.cn/packages/flutter_universalad"><img src=https://img.shields.io/badge/flutter_universalad-v1.0.9-success></a>
+<a href="https://pub.flutter-io.cn/packages/flutter_universalad"><img src=https://img.shields.io/badge/flutter_universalad-v1.0.10-success></a>
 </p>
 
 ## 简介
   flutter_universalad是一款聚合字节跳动穿山甲[flutter_unionad](https://github.com/gstory0404/flutter_unionad)、腾讯优量汇(广点通)[flutter_tencentad](https://github.com/gstory0404/flutter_tencentad)的聚合广告插件,方便直接调用多个厂商广告。[体验demo](https://www.pgyer.com/j7YB)
+  
+<img src="https://github.com/gstory0404/flutter_universalad/blob/master/images/universalad.gif" width="30%">
+ 
   
 ## 文档
 
@@ -29,7 +32,7 @@
 ## 集成步骤
 #### 1、pubspec.yaml
 ```Dart
-flutter_universalad: ^1.0.9
+flutter_universalad: ^1.0.10
 ```
   
 #### 2、引入
@@ -311,6 +314,7 @@ FlutterUniversalad.bannerAdView(
 |聚合广告插件|[flutter_universalad](https://github.com/gstory0404/flutter_universalad)|
 |百度百青藤广告插件|[flutter_baiduad](https://github.com/gstory0404/flutter_baiduad)|
 |字节穿山甲内容合作插件|[flutter_pangrowth](https://github.com/gstory0404/flutter_pangrowth)|
+|文档预览插件|[file_preview](https://github.com/gstory0404/file_preview)|
 
 ## 联系方式
 * Email: gstory0404@gmail.com
